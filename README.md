@@ -1,2 +1,2 @@
-# Classifica-o-de-Sal-rios
+# Classificao-de-Salarios
 Projeto trabalhado na disciplina Aprendizado de Máquina Aplicado a Problemas
